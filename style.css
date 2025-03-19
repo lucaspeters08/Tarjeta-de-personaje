@@ -1,0 +1,32 @@
+#p1{
+    color: white;
+    font: size 48px;
+    text-align:center;
+    font-family:"Roboto", sans-serif;
+}
+.contenedor{
+    background-color: rgb(17, 0, 255);
+    width:500px;
+    height: 600px;
+    border-radius:8px;
+}
+#p2{
+    color: white;
+    font: size 24px;
+    font-family:"Roboto", sans-serif;
+}
+#p3{
+    color: white;
+    font: size 24px;
+    font-family:"Roboto", sans-serif;
+}
+#p4{
+    color: white;
+    font: size 24px;
+    font-family:"Roboto", sans-serif;
+}
+#p5{
+    color: white;
+    font: size 24px;
+    font-family:"Roboto", sans-serif;
+}
