@@ -9,6 +9,7 @@
     width:500px;
     height: 600px;
     border-radius:8px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }
 #p2{
     color: white;
